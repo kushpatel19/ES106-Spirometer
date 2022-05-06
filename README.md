@@ -7,4 +7,5 @@ This project is done by one other memmber also. We have designed all parts in Au
 We have learnt to use the C++ coding of different circuits like NodeMCU, Rotary Encoder, machinery of various devices for fabrication. We have used Ardiuno IDE (Integreted Development Environment) softwere. 
 
 
+
 Final Project Report:- https://drive.google.com/file/d/1h1Eqf5NiuV8gj3AOGXg7Ey2TxcAfIwiO/view?usp=sharing 
